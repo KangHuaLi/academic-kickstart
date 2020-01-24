@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Cheng-Che Lee (SunnerLi)
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Computer Vision and Deep Learning Research Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: MIP / EVA Lab
+  url: "https://walonchiu.github.io/"
+- name: National Chiao Tung University
+  url: "https://www.nctu.edu.tw/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include generative model, deep learning and computer vision.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning
+- Generative Model
+- Computer Vision
+- Music Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MEng in Computer Science
+    institution: National Chiao Tung University, Taiwan
+    year: 2017 - 2019
+  - course: BEng in CSIE
+    institution: National Taipei University, Taiwan
+    year: 2013 - 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'a6214123_AT_gmail.com'  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: medium
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://medium.com/@sunnerli
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sunner-li-5924b2145/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/SunnerLi
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +76,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I join the MediaTek as Computer Vision and Deep Learning Research Engineer in winter, 2019. My research interests include **deep learning** and **generative model**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+During my colleage, I join the research team of Embedded System and Application Lab (ESA-Lab) which is host by [Prof. Bor-Shing Lin](http://web.ntpu.edu.tw/~bslin/). The research topic I consider is the deep learning object recognition system. During my graduate studeis, I work on image-to-image translation with [Prof. Yu-Tai Ching](https://www.cs.nctu.edu.tw/members/detail/ytc).
+
+In the meanwhile, I had the experience to do the research and cooperated with the [Prof. Wei-Chen Chiu](https://walonchiu.github.io/) who is the leader of Enriched Vision Applications Lab (EVA-Lab). Finally, I also investigated some research topic on music with [Dr. Li Su](https://www.iis.sinica.edu.tw/pages/lisu/index_en.html) at National Tsing Hua University.
+
+**To fullfill my career goal, I am finding any AI research cooperation oppertunity within my research interests.**
